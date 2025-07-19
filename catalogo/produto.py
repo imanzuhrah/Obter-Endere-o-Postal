@@ -15,3 +15,6 @@ class produto:
 
         # Atribui o desconto e atualiza o preço do produto.
         self.preco = self.preco - desconto
+
+        # Retorna o valor do desconto em reais
+        return desconto
