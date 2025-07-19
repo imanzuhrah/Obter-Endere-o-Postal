@@ -1,5 +1,4 @@
 # Importar o módulo de produto
-
 from catalogo import produto
 
 
